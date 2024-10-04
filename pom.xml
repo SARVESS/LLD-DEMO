@@ -11,6 +11,14 @@
     <modules>
         <module>ShoppingCart</module>
         <module>DoctorAppointmentManagementSystem</module>
+        <module>RateLimiter</module>
+        <module>AbstractFactoryPattern</module>
+        <module>DecoratorPattern</module>
+        <module>BuilderPattern</module>
+        <module>VendingMachine</module>
+        <module>CarRentalSystem</module>
+        <module>AuctionSystem</module>
+        <module>SnakeandLadder</module>
     </modules>
 
     <properties>

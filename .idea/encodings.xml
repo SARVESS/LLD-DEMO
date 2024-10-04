@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AbstractFactoryPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AbstractFactoryPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuctionSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuctionSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarRentalSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarRentalSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecoratorPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecoratorPattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DoctorAppointmentManagementSystem/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DoctorAppointmentManagementSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RateLimiter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RateLimiter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ShoppingCart/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ShoppingCart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SnakeandLadder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SnakeandLadder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VendingMachine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VendingMachine/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
